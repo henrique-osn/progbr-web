@@ -1,0 +1,26 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+#list {
+    padding: 0px;
+    display: none;
+}
+
+#list li {
+    padding: 10px;
+    margin: 5px;
+    margin-left: 0px;
+    background-color: #dddddd;
+    font-size: 1.2rem;
+    list-style-type: none;
+}
+
+button {
+    border: none;
+    font-size: 1.1rem;
+    padding: 15px;
+    background-color: #0083ff;
+    color: #ffffff;
+    border-radius: 4px;
+}
