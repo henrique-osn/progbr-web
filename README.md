@@ -1,5 +1,5 @@
 <h1 align="center">
-    <a href="https://programadorbr.com/"><img src="https://programadorbr.com/static/media/logo.7fe897a1.svg"/></a>
+    <a href="https://programadorbr.com/"><img src="https://programadorbr.com/static/media/logo.7fe897a1b1c7350d42f2356957872425.svg"/></a>
     <br/>
     Desenvolvimento Web | Programador BR
 </h1>
